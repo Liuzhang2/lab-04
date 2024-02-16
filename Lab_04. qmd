@@ -1,0 +1,47 @@
+---
+title: "Lab_04:Scaffolding reproducible research"
+format: html
+---
+
+## Reproducible research
+
+- When we say "reproducible research", what do we mean?
+
+It means the idea that the results and findings of a research study can be accurately reproduced by others who follow the same methods and procedures outlined in the original study. It emphasizes the transparency and openness of the research process.
+
+- What is the difference between the 'computing environment' and the 'project structure'?
+
+The computing environment refers to the set of software tools, libraries, packages, and dependencies that are used to execute a particular piece of code or analysis. Project structure refers to the organization and layout of the files and directories within a research project. the computing environment focuses on the software and dependencies needed to run code, while the project structure deals with how files and components are organized within a research project. Both aspects are important for reproducible research, as they contribute to the transparency and ease of replication by others.
+
+- How does Git and GitHub support reproducible research practices?
+
+Git and GitHub play significant roles in supporting reproducible research practices by providing version control, collaboration tools, and a platform for sharing code and resources. Here's how they contribute to reproducibility.
+
+## Project management
+
+In the section "Project management", describe the process of forking, cloning, editing, committing, and pushing. 
+
+Below my steps:
+
+Go to the GitHub repository.
+Click "Fork" to create a copy the account.
+Clone the Forked Repository:
+
+Open the terminal.
+Use git clone to download the repository to the local machine.
+Create a Branch for My Changes:
+
+Navigate to the repository directory.
+Create a new branch (e.g., "feature-branch").
+Make and Edit Changes:
+
+Open the project in my code editor.
+Make the necessary changes.
+Commit My Changes Locally:
+
+Stage your changes.
+Commit with a descriptive message.
+Push Changes to my Fork.
+
+## Assessing your progress
+I have learnt how to fork, clone and commit in github and r studio. The challeaging is I couldn't distinguish the github and rstudio's different funtions.
